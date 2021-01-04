@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ForecastWeather</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="main_fragment_label">Main Fragment</string>
+    <string name="forecast_fragment_label">Forecast Fragment</string>
+
+    <string name="hello_main_fragment">Hello main fragment</string>
+    <string name="hello_forecast_fragment">Hello forecast fragment. Arg: %1$s</string>
+</resources>
